@@ -1,43 +1,43 @@
-# 🎉 LaganBook – Best Event Management App in India for Tent House, DJ, Catering, Decorators & More
+# LaganBook – Best Event Management App in India for Tent House, DJ, Catering, Decorators & More
 
-**LaganBook** ek all-in-one **event booking aur business management app** hai, jo India ke **Tent House, DJ & Sound, Catering, Decorators, Photographers, Banquet Halls, Wedding Planners** aur dusre event service providers ke liye banaya gaya hai.
+**LaganBook** is an all-in-one **event booking and business management app** built for event service providers in India: **tent houses, DJ & sound providers, caterers, decorators, photographers, banquet halls, wedding planners** and more.
 
-Enquiry se lekar quotation, booking, truck gate pass, final payment aur party khata tak — poora kaam ek hi mobile app mein. **Paper diary, Excel aur WhatsApp chats se chhutkara paaiye.**
+From the first enquiry to quotation, booking, truck gate pass, final payment and party khata, manage your whole business from one mobile app. Leave paper diaries, Excel sheets and scattered WhatsApp chats behind.
 
 🌐 **Website:** [laganbook.com](https://www.laganbook.com)
 📱 **Platform:** Android & iOS
-📍 **Made in:** Indore, Madhya Pradesh, India
+📍 **Based in:** Indore, Madhya Pradesh, India
 
 ---
 
-## 🤔 Ye Problems Aapko Bhi Hain?
+## 🤔 Sound Familiar?
 
-| Problem | LaganBook ka Solution |
+| Everyday Problem | How LaganBook Helps |
 |---|---|
-| Enquiry aur dates WhatsApp mein kho jaati hain | Ek jagah booking diary aur calendar |
-| Peak lagan date par same stock / DJ double-book ho jaata hai | Automatic **clash alert** |
-| Advance aur balance payment ke liye baar-baar phone | **WhatsApp reminder + UPI QR** |
-| Shaadi se wapas aane par chair, parde, mic gayab | **Gate pass** + return inspection |
-| Bahi khata aur kiraya register mein hisaab gadbad | Digital **party khata** |
-| Staff ko profit aur rates nahi dikhane | **Staff permissions**, 100% privacy |
+| Enquiries and dates get lost in WhatsApp chats | One booking diary and calendar |
+| Same stock or DJ set gets double-booked on peak wedding dates | Automatic **clash alerts** |
+| Chasing clients again and again for advance and balance | **WhatsApp reminders with UPI QR** |
+| Chairs, curtains and mics go missing after an event | **Gate pass** and return inspection |
+| Messy bahi khata and rental registers | Digital **party khata** |
+| Staff should not see your rates and profit | **Staff permissions** with full privacy |
 
 ---
 
-## 🧩 Kin Businesses ke liye? (17 Event Service Categories)
+## 🧩 Built for 17 Event Service Categories
 
 | Business | Page |
 |---|---|
-| 🏕️ Tent House & Pandal Rental Software | [Tent House Software](https://www.laganbook.com/solutions/tent-house) |
-| 🔊 DJ & Sound Booking App | [DJ & Sound Booking](https://www.laganbook.com/solutions/dj-sound) |
-| 🍛 Catering & Halwai Management | [Catering Management](https://www.laganbook.com/solutions/catering-food) |
-| 🎨 Stage, Mandap & Event Decorator | [Decorator Software](https://www.laganbook.com/solutions/event-decorator) |
-| 📸 Photography & Video Studio | [Photo Studio App](https://www.laganbook.com/solutions/photography-video) |
+| 🏕️ Tent House & Pandal Rental | [Tent House Software](https://www.laganbook.com/solutions/tent-house) |
+| 🔊 DJ & Sound | [DJ & Sound Booking App](https://www.laganbook.com/solutions/dj-sound) |
+| 🍛 Catering & Halwai | [Catering Management](https://www.laganbook.com/solutions/catering-food) |
+| 🎨 Stage, Mandap & Decor | [Event Decorator Software](https://www.laganbook.com/solutions/event-decorator) |
+| 📸 Photography & Video | [Photo Studio App](https://www.laganbook.com/solutions/photography-video) |
 | 💍 Wedding Planner | [Wedding Planner App](https://www.laganbook.com/solutions/wedding-planner) |
 | 🏛️ Banquet Hall & Marriage Garden | [Banquet Hall Booking](https://www.laganbook.com/solutions/banquet-venue) |
 | 🎺 Brass Band & Baarat | [Brass Band Booking](https://www.laganbook.com/solutions/brass-band) |
 | 🎤 Live Artists, Bands & Anchors | [Live Entertainment App](https://www.laganbook.com/solutions/live-entertainment) |
 | 🎆 Cold Pyro & Fireworks | [Fireworks & Pyro](https://www.laganbook.com/solutions/fireworks-pyro) |
-| 📺 LED Video Wall & Truss Lighting | [LED Video Wall Rental](https://www.laganbook.com/solutions/led-videowall) |
+| 📺 LED Video Wall & Truss | [LED Video Wall Rental](https://www.laganbook.com/solutions/led-videowall) |
 | ⚡ Generator Rental | [Generator Rental Software](https://www.laganbook.com/solutions/generator-rental) |
 | 🪑 Event Furniture Rental | [Furniture Rental](https://www.laganbook.com/solutions/event-furniture) |
 | 🚗 Wedding Car & Bus Fleet | [Wedding Car Rental](https://www.laganbook.com/solutions/event-vehicles) |
@@ -45,56 +45,56 @@ Enquiry se lekar quotation, booking, truck gate pass, final payment aur party kh
 | 🌿 Bridal Mehndi Artist | [Mehndi Artist App](https://www.laganbook.com/solutions/mehndi-artist) |
 | 🛡️ Event Security & Valet | [Security & Valet App](https://www.laganbook.com/solutions/event-security) |
 
-Aap apni khud ki custom service category bhi bana sakte hain.
+You can also create your own custom service category.
 
-👉 [Sabhi solutions dekhein](https://www.laganbook.com/solutions) • [City-wise solutions](https://www.laganbook.com/locations)
+👉 [All solutions](https://www.laganbook.com/solutions) • [City-wise solutions](https://www.laganbook.com/locations)
 
 ---
 
 ## ✨ Features
 
 ### 📅 Booking & Calendar
-- Ritual-wise multi-day booking: **Haldi, Mehendi, Sangeet, Baraat, Reception** ek hi order mein
-- Shubh muhurat / peak lagan date par **stock, crew aur venue clash alert**
-- Booking alerts aur reminders
+- Ritual-wise multi-day bookings: **Haldi, Mehendi, Sangeet, Baraat, Reception** under one order
+- **Clash alerts** for stock, crew and venues on peak muhurat dates
+- Booking alerts and reminders
 
-### 💬 Quotation & Billing
-- **WhatsApp quotation** PDF — 10 second mein, apne logo aur terms ke saath
-- **GST aur Non-GST** bill, Hindi ya English mein, SAC/HSN code ke saath
-- Dynamic **UPI QR** advance token aur balance ke liye
-- 2-inch / 3-inch **Bluetooth thermal slip** print
+### 💬 Quotations & Billing
+- **WhatsApp quotation PDFs** in about 10 seconds, with your logo and terms
+- **GST and non-GST** bills in Hindi or English, with SAC/HSN codes
+- Dynamic **UPI QR** for advance tokens and balance payments
+- 2-inch and 3-inch **Bluetooth thermal slip** printing
 
 ### 📦 Stock, Gate Pass & Repair
 - Stock status: **Available, On-Rent, Missing, Damaged, In-Repair, Scrap**
 - Multiple godown support
-- Digital **truck loading gate pass (delivery challan)** aur return check
-- Missing / damage ka charge seedha final bill mein
+- Digital **truck loading gate pass (delivery challan)** and post-event return check
+- Missing and damage charges added straight to the final bill
 
-### 📒 Khata, Expense & Profit
-- **Party khata**, vendor khata aur staff ledger
-- **Sub-renting**: season mein kam padne par bahar se maal lena
-- **Daily Day Book** (galla passbook) aur event-wise **profit & loss**
-- Balance sheet aur CA-ready tax reports
+### 📒 Khata, Expenses & Profit
+- **Party khata**, vendor khata and staff ledgers
+- **Sub-renting** for peak season when your own stock runs short
+- **Daily Day Book** and event-wise **profit & loss**
+- Balance sheet and CA-ready tax reports
 
 ### 👥 Team & Privacy
-- Manager, munshi, driver, technician ke liye alag login
-- Custom role permissions aur **crew duty roster**
-- Purchase rate, profit aur bank balance staff se hide
+- Separate logins for managers, munshis, drivers and technicians
+- Custom role permissions and **crew duty roster**
+- Purchase rates, profit and bank balance stay hidden from staff
 
 ### 📶 Offline Mode
-- Basement godown, farmhouse aur marriage lawn mein bina internet kaam karein
-- Internet aate hi auto-sync
+- Work in basement godowns, farmhouses and marriage lawns without internet
+- Automatic cloud sync when you are back online
 
 ### 🧮 Custom Setup
-- Apni service categories, item groups aur packages
-- **38 Indian units**: SqFt, Rft, Nag, Sets, Plate, Pax, Shift, kVA, KM, Day
+- Your own service categories, item groups and packages
+- **38 Indian units** including SqFt, Rft, Nag, Sets, Plate, Pax, Shift, kVA, KM and Day
 
 ---
 
 ## 🔄 Complete Workflow
 
 ```
-Enquiry → WhatsApp Quotation → Advance (UPI QR) → Booking Confirm
+Enquiry → WhatsApp Quotation → Advance (UPI QR) → Booking Confirmed
 → Clash Check → Crew Duty → Gate Pass (Loading) → Event
 → Return Inspection → Final Bill → Party Khata → Profit & Loss Report
 ```
@@ -103,23 +103,23 @@ Enquiry → WhatsApp Quotation → Advance (UPI QR) → Booking Confirm
 
 ## ❓ FAQ
 
-**LaganBook kya hai?**
-Event service providers ke liye booking, billing, stock aur khata manage karne wala mobile app.
+**What is LaganBook?**
+A mobile app that helps event service providers manage bookings, billing, stock and khata in one place.
 
-**Kya tent house ke liye alag software hai?**
-Haan, [Tent House Software](https://www.laganbook.com/solutions/tent-house) page dekhein: stock, kiraya, gate pass aur khata ke saath.
+**Is there software for tent house businesses?**
+Yes. See [Tent House Software](https://www.laganbook.com/solutions/tent-house) for stock, rentals, gate pass and khata.
 
-**Kya DJ booking aur sound stock manage ho sakta hai?**
-Haan, [DJ & Sound Booking](https://www.laganbook.com/solutions/dj-sound) mein booking, clash alert aur equipment tracking hai.
+**Can I manage DJ bookings and sound equipment?**
+Yes. [DJ & Sound Booking](https://www.laganbook.com/solutions/dj-sound) covers bookings, clash alerts and equipment tracking.
 
-**Kya bina internet chalega?**
-Haan, offline mode hai aur online hote hi sync hota hai.
+**Does it work without internet?**
+Yes. It works offline and syncs when you are connected.
 
-**Kya GST bill ban sakta hai?**
-Haan, GST aur non-GST dono quotation aur bill PDF ban sakte hain.
+**Can I create GST bills?**
+Yes. Both GST and non-GST quotations and bills are supported.
 
-**Kya staff ko profit dikhega?**
-Nahi, permissions se rates, profit aur bank balance hidden rakh sakte hain.
+**Can my staff see my profit?**
+No. You control permissions, and rates, profit and bank balance can stay hidden.
 
 ---
 
@@ -149,7 +149,7 @@ Nahi, permissions se rates, profit aur bank balance hidden rakh sakte hain.
 
 ## 🔎 Related Searches
 
-best event management app in India, event booking app India, wedding management app, event management software India, tent house software, tent house booking software, tent house quotation format in Hindi, tent house bahi khata app, kiraya register app, DJ booking app, DJ bill book app, DJ sound rental software, catering management software, catering plate calculation software, wedding planner app, banquet hall booking software, marriage hall lawn booking calendar, decorator quotation app, photographer booking app, brass band booking software, generator rental software, LED video wall rental software, rental billing app India, WhatsApp quotation app, UPI QR billing app, party khata app, truck loading gate pass software, stock clash prevention software, offline event management software, lagan season booking diary
+best event management app in India, event booking app India, wedding management app, event management software India, tent house software, tent house booking software, tent house quotation format in Hindi, tent house bahi khata app, rental register app, DJ booking app, DJ bill book app, DJ sound rental software, catering management software, catering plate calculation software, wedding planner app, banquet hall booking software, marriage hall lawn booking calendar, decorator quotation app, photographer booking app, brass band booking software, generator rental software, LED video wall rental software, rental billing app India, WhatsApp quotation app, UPI QR billing app, party khata app, truck loading gate pass software, stock clash prevention software, offline event management software, wedding season booking diary
 
 ---
 
